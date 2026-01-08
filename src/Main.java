@@ -5,11 +5,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // TODO: Read two integers  test.
-        int a = scanner.nextInt();
-        int b = scanner.nextInt();
+
 
         // TODO: Print their sum  using println
-        System.out.println(a + b);
       
         scanner.close();
     }
